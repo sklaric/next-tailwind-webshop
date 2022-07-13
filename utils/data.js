@@ -22,7 +22,7 @@ const data = {
       category: "Shirts",
       image: "/images/shirt1.jpg",
       price: 70,
-      brand: "Nike",
+      brand: "Lacoste",
       rating: 4.5,
       numReviews: 8,
       countInStock: 20,
