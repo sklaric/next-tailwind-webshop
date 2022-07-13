@@ -1,12 +1,9 @@
-import Head from "next/head"
+import Layout from "../components/Layout"
 
 export default function Home() {
   return (
     <div>
-      <Head>
-        <title>Next-tailwind-webshop</title>
-      </Head>
-      <h1 className="text-3xl font-bold underline">Next-tailwind-webshop</h1>
+      <Layout title="Home Page">Home Page</Layout>
     </div>
   )
 }
